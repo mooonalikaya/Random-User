@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Lyubomila",
+                "last": "Krushelnickiy"
+            },
+            "location": {
+                "street": {
+                    "number": 8350,
+                    "name": "Galaganivska"
+                },
+                "city": "Stebnik",
+                "state": "Vinnicka",
+                "country": "Ukraine",
+                "postcode": 27073,
+                "coordinates": {
+                    "latitude": "77.2882",
+                    "longitude": "3.2090"
+                },
+                "timezone": {
+                    "offset": "+7:00",
+                    "description": "Bangkok, Hanoi, Jakarta"
+                }
+            },
+            "email": "lyubomila.krushelnickiy@example.com",
+            "login": {
+                "uuid": "77edd3d1-3fb3-49e6-93c3-412fb242f7a6",
+                "username": "brownelephant188",
+                "password": "selena",
+                "salt": "8RlM3zgo",
+                "md5": "44c5feaddb612672faba11f31367274e",
+                "sha1": "b76cf27c4d36c436d9e357111e3b20d090877098",
+                "sha256": "43f80b2f5d33f222097a98ea37b85c56f23a3c73ffb404cd4d8e9c97d8c5d6b3"
+            },
+            "dob": {
+                "date": "1954-08-17T23:03:35.520Z",
+                "age": 68
+            },
+            "registered": {
+                "date": "2022-04-29T12:46:57.955Z",
+                "age": 0
+            },
+            "phone": "(066) H19-4642",
+            "cell": "(066) N11-3602",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/67.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/67.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/67.jpg"
+            },
+            "nat": "UA"
+        }
+    ],
+    "info": {
+        "seed": "c37cf92cd9ffe8ff",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
